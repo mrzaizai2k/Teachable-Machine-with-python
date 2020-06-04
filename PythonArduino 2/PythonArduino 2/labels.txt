@@ -1,0 +1,3 @@
+0 No tilt
+1 left tilt
+2 Right tilt
